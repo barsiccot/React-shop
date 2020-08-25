@@ -1,0 +1,320 @@
+[
+
+    {
+  
+      "id": 0,
+  
+      "title": "Клаус",
+  
+      "author": "Серхио Паблос, Карлос Мартинес Лопес",
+  
+      "image": "img/6.jpg",
+  
+      "price": 710,
+  
+      "rating": 3
+  
+    },
+  
+    {
+  
+      "id": 1,
+  
+      "title": "Однажды в Голливуде",
+  
+      "author": "Квентин Тарантино",
+  
+      "image": "img/5.jpg",
+  
+      "price":1215,
+  
+      "rating": 5
+  
+    },
+  
+    {
+  
+      "id": 2,
+  
+      "title": "Алита: боевой ангел",
+  
+      "author": "Роберт Родригес",
+  
+      "image": "img/4.jpg",
+  
+      "price": 464,
+  
+      "rating": 4
+  
+    },
+  
+    {
+  
+      "id": 3,
+  
+      "title": "Джокер",
+  
+      "author": "Тодд Филлипс",
+  
+      "image": "img/2.jpg",
+  
+      "price": 1241,
+  
+      "rating": 3
+  
+    },
+  
+    {
+  
+      "id": 4,
+  
+      "title": "Т-34",
+  
+      "author": "Алексей Сидоров",
+  
+      "image": "img/1.jpg",
+  
+      "price": 317,
+  
+      "rating": 1
+  
+    },
+  
+    {
+  
+      "id": 5,
+  
+      "title": "Мстители. Marvel's The Avengers",
+  
+      "author": "Джосс Уэдон",
+  
+      "image": "img/3.jpg",
+  
+      "price": 954,
+  
+      "rating": 0
+  
+    },
+  
+    {
+  
+      "id": 6,
+  
+      "title": "Zомбилэнд: Контрольный выстрел",
+  
+      "author": "Рубен Фляйшер",
+  
+      "image": "img/7.jpg",
+  
+      "price": 573,
+  
+      "rating": 4
+  
+    },
+  
+    {
+  
+      "id": 7,
+  
+      "title": "Малефисента: Владычица тьмы",
+  
+      "author": "Хоаким Роннинг",
+  
+      "image": "img/8.jpg",
+  
+      "price": 246,
+  
+      "rating": 0
+  
+    },
+  
+    {
+  
+      "id": 8,
+  
+      "title": "К звёздам ",
+  
+      "author": "Джеймс Грэй",
+  
+      "image": "img/9.jpg",
+  
+      "price": 347,
+  
+      "rating": 5
+  
+    },
+  
+    {
+  
+      "id": 9,
+  
+      "title": "Форсаж: Хоббс и Шоу",
+  
+      "author": "Дэвид Литч",
+  
+      "image": "img/10.jpg",
+  
+      "price": 882,
+  
+      "rating": 2
+  
+    },
+  
+    {
+  
+      "id": 10,
+  
+      "title": "Король Лев",
+  
+      "author": "Джон Фавро",
+      "image": "img/11.jpg",
+      "price": 829,
+  
+      "rating": 1
+  
+    },
+  
+    {
+  
+      "id": 11,
+  
+      "title": "Зеленая книга.",
+  
+      "author": "Питер Фаррелли",
+  
+      "image": "img/12.jpg",
+  
+      "price": 389,
+  
+      "rating": 2
+  
+    },
+  
+    {
+  
+      "id": 12,
+  
+      "title": "Ничего себе каникулы!",
+  
+      "author": "Патрик Кассир",
+  
+      "image": "img/13.jpg",
+  
+      "price": 424,
+  
+      "rating": 3
+  
+    },
+  
+    {
+  
+      "id": 13,
+  
+      "title": "Люди в черном: Интернэшнл",
+  
+      "author": "Ф. Гэри Грей",
+  
+      "image": "img/20.jpg",
+  
+      "price": 157,
+  
+      "rating": 2
+  
+    },
+  
+    {
+  
+      "id": 14,
+  
+      "title": "Джон Уик 3",
+  
+      "author": "Чад Стахелски",
+  
+      "image": "img/15.jpg",
+  
+      "price": 664,
+  
+      "rating": 0
+  
+    },
+  
+    {
+  
+      "id": 15,
+  
+      "title": "Семья по-быстрому",
+  
+      "author": "Шон Андерс",
+  
+      "image": "img/16.jpg",
+  
+      "price": 476,
+  
+      "rating": 4
+  
+    },
+  
+    {
+  
+      "id": 17,
+  
+      "title": "Собачья жизнь 2",
+  
+      "author": "Гейл Манкусо",
+  
+      "image": "img/17.jpg",
+  
+      "price": 837,
+  
+      "rating": 4
+  
+    },
+  
+    {
+  
+      "id": 18,
+  
+      "title": "Капернаум",
+  
+      "author": "Надин Лабаки",
+  
+      "image": "img/18.jpg",
+  
+      "price": 796,
+  
+      "rating": 5
+  
+    },
+  
+    {
+  
+      "id": 19,
+  
+      "title": "Оно-2",
+  
+      "author": "Андрес Мускетти",
+  
+      "image": "img/19.jpg",
+
+      "price": 399,
+  
+      "rating": 5
+  
+    },
+    {
+  
+      "id": 19,
+  
+      "title": "Дитя робота",
+  
+      "author": "Грант Спьютор",
+  
+      "image": "img/21.jpg",
+
+      "price": 1099,
+  
+      "rating": 5
+  
+    }
+   
+  ]

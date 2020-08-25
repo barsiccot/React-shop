@@ -1,0 +1,39 @@
+body {
+
+    margin-top: 20px;
+  
+  }
+  
+  
+  
+  .menu {
+  
+    margin-bottom: 20px;
+  
+  }
+  
+  
+  
+  .popup {
+  
+    max-width: 400px !important;
+  
+  }
+  
+  
+  
+  .card-image {
+  
+    height: 350px;
+  
+    overflow: hidden;
+  
+  }
+  
+  
+  
+  .card-image img {
+  
+    width: 100%;
+  
+  }
